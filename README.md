@@ -116,7 +116,7 @@ npm install
 2. Run the following command to start the Metro bundler and launch the app on Android:
 
    ```bash
-   npm run android
+   npx react-native run-android
    ```
 
 #### For iOS:
@@ -124,7 +124,7 @@ npm install
 2. Run the following command to start the Metro bundler and launch the app on iOS:
 
    ```bash
-   npm run ios
+   npx react-native run-ios
    ```
  
 
