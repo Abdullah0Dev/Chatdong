@@ -110,12 +110,23 @@ npm start
 cd ../frontend
 npm install
 ```
+ 
+#### For Android:
+1. Make sure your Android emulator is running, or connect a physical device.
+2. Run the following command to start the Metro bundler and launch the app on Android:
 
-Run the app:
+   ```bash
+   npm run android
+   ```
 
-```bash
-npm start
-```
+#### For iOS:
+1. Make sure your iOS simulator is running, or connect a physical device.
+2. Run the following command to start the Metro bundler and launch the app on iOS:
+
+   ```bash
+   npm run ios
+   ```
+ 
 
 **Tailwind CSS Configuration**
 
