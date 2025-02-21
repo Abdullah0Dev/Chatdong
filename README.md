@@ -1,9 +1,7 @@
 
 <div align="center">
   <br />
-  <a href="https://drive.google.com/file/d/1ZKCV4HLKSkajlb-8CVMIRV3q2_qqW2Gs/view?usp=sharing" target="_blank">
-    <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
-  </a>
+
   
   <br />
 
